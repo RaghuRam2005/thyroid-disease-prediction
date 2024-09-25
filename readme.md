@@ -5,7 +5,7 @@ In this project we use Machine Learning (ML) models to predict if a person has t
 The data used is available in kaggle: [Thyroid Dataset](https://www.kaggle.com/datasets/yasserhessein/thyroid-disease-data-set) <br>
 
 ### Information about model:
-In this model, I will predict two thyroid conditions and if a person have thyroid or not. So this model is muliclass classification model.
+In this model, I will predict two thyroid conditions and if a person have thyroid or not, and also predict the hyperthyroid condition. So this model is muliclass classification model.
 Algorithms used:
 1. Decision Trees
 2. Logistic Regression
